@@ -9,5 +9,6 @@
   <modules>
   	<module>spring-service-annotationconfig1-nonweb</module>
   	<module>spring-service-annotationconfig2-nonweb</module>
+  	<module>spring-service-xmlconfig-nonweb</module>
   </modules>
 </project>
